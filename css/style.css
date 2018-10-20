@@ -4701,10 +4701,10 @@
 }
  .btn-small-white-background {
      font-size: 11px;
-     letter-spacing: 2px;
+     letter-spacing: 1px;
      padding: 6px 23px;
      color: #000;
-     margin-right: 25px;
+     margin-right: 0px;
      background:#fff;
      border: 2px solid #fff 
 }
@@ -8183,5 +8183,10 @@
 }
 
 .marimgbot {
-    margin-bottom: 12px;
+    margin-bottom: 25px;
+}
+
+.hrsbotton {
+    text-align: center;
+    width: 100%;
 }
