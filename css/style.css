@@ -7495,11 +7495,11 @@
      margin:0
 }
  .chef-img {
-    min-height:625px;
+    min-height:450px;
 }
  .chef-text {
-    min-height:625px;
-     padding:10%
+    min-height:450px;
+     padding:5%
 }
 /* travel */
  .travel-slider {
