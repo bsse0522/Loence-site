@@ -585,7 +585,7 @@
    ****************************************************/
     /*======*  restaurant  *======*/
     .about-restaurant-text { min-height: 0; }
-    .chef-text { min-height: 0; }
+    .chef-text { min-height: 0; padding: 1%; }
     .img-border-full { height: calc(100% - -82px); width: calc(100% - 30px); }
     .special-offers-sub { top: 33%; }
     .special-offers { min-height: 378px;}
