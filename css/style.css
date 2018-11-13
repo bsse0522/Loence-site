@@ -5049,7 +5049,7 @@
 /* pricing table */
  .pricing [class^="col-"] {
      margin-top: 20px;
-     padding: 0;
+     margin-bottom: 20px;
 }
  .pricing-title {
      background-color: #f9f9f9;
@@ -5090,17 +5090,17 @@
      padding: 0 30px 35px;
 }
  .pricing-box.best-price {
-     background-color: #000;
-     margin: -20px -1px 0;
-     z-index: 10;
-     border:1px solid #000;
-     color:#999
+    background-color: #2a90cd;
+    margin: -20px -1px 0;
+    z-index: 10;
+    border: 1px solid #2a90cd;
+    color: black;
 }
  .pricing-box.best-price .pricing-price::after {
     border-top: 2px solid rgba(255,255,255,.3)
 }
  .pricing-box.best-price .pricing-price {
-     color:#999
+     color: white;
 }
  .pricing-box {
      background-color: #fff;
@@ -5112,23 +5112,22 @@
      border:none
 }
  .pricing-price {
-     color: #333;
-     font-size: 64px;
-     font-weight: 300;
-     line-height: 1;
-     padding: 35px 0;
-     position: relative;
-     letter-spacing: -3px 
+    font-size: 14px;
+    color: #333;
+    font-weight: bold;
+    line-height: 1;
+    padding: 15px 0;
+    position: relative;
 }
  .pricing-price span {
-     display: inline-block;
-     font-size: 28px;
-     font-weight: 400;
-     margin: 7px 3px 0 0;
-     vertical-align: top;
+    display: inline-block;
+    font-size: 12px;
+    font-weight: 400;
+    margin: -1px -2px 0 0;
+    vertical-align: top;
 }
  .pricing-price span.price-tenure {
-     color: #999;
+     color: white;
      font-size: 16px;
      font-weight: 400;
      margin: 0 0 0 8px;
@@ -5140,7 +5139,7 @@
      bottom: 0;
      content: "";
      left: 50%;
-     margin-left: -50px;
+     margin-left: -38px;
      position: absolute;
      top: auto;
      width: 80px;
