@@ -93,9 +93,7 @@ zoom-in
     cursor:url("../images/icon-zoom.png"), pointer;
 }
 
-.mfp-auto-cursor .mfp-content {
-    cursor:url("../images/icon-zoom-out.png"), pointer;
-}
+
 .mfp-close, .mfp-arrow, .mfp-preloader, .mfp-counter {
     -webkit-user-select: none;
     -moz-user-select: none;
