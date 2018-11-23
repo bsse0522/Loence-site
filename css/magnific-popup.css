@@ -79,9 +79,6 @@
 .mfp-ajax-cur {
     cursor: progress; }
 
-.mfp-zoom-out-cur, .mfp-zoom-out-cur .mfp-image-holder .mfp-close, .mfp-image-holder, .mfp-iframe-holder, .mfp-close-btn-in, .mfp-content {
-    cursor:url("../images/icon-zoom-out.png"), pointer;
-}
 #popup-form {
     cursor:default;
 }
