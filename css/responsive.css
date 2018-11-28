@@ -1499,7 +1499,7 @@
     .about-restaurant-text { padding: 7% 15px; }
     .about-restaurant-img { min-height: 440px; }
     .restaurant-menu-img { min-height: 440px; }
-    .chef-img { min-height: 440px; }
+    .chef-img { min-height: 270px; }
     .chef-text { padding: 10% 15px; }
     .img-border { height: calc(100% - 40px); left: 15px; top: 20px; width: calc(100% - 31px); }
     .popular-dishes-border { height: calc(100% - 28px); left: 15px; top: 15px; width: calc(100% - 28px); }

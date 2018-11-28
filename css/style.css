@@ -7499,10 +7499,10 @@
      margin:0
 }
  .chef-img {
-    min-height:450px;
+    min-height:400px;
 }
  .chef-text {
-    min-height:450px;
+    min-height:400px;
 }
 /* travel */
  .travel-slider {
@@ -8244,5 +8244,17 @@ body {
         }
     }
 
+    @media (min-width: 992px) {
+        .pc-displaynone {
+            display: none;
+        }
+    }
 
-sjdfgdsfg
+    @media (max-width: 992px) {
+        .mobile-displaynone {
+            display: none;
+        }
+    }
+
+
+
